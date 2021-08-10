@@ -12,7 +12,6 @@ export default StyleSheet.create({
 
   viewAnimationBackgroundColor: {
     height: 280,
-    backgroundColor: theme.colors.titleColor,
   },
 
   inputView: {
@@ -35,7 +34,7 @@ export default StyleSheet.create({
     fontWeight: '700',
     color: '#FFFFFF',
   },
-  
+
   viewFlatList: {
     flex:1,
     marginTop: '8%',
